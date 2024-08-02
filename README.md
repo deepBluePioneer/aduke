@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron Duke</h1>
 <h3 align="center">Your Go-To Freelancer for Innovative Game Development</h3>
 
-- 🔭 I’m currently working on **OpenGl C++ Game Engine**
+- 🔭 I’m currently working on an **OpenGl C++ Game Engine**
 
 - 🌱 I’m currently learning **Procedural Voxel Generation**
 
